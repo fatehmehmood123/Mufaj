@@ -1,0 +1,20 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    /* border: 1px solid black; */
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    background-color: rgb(252, 241, 225);
+    /* padding-left: 1em; */
+    /* padding-right: 1em; */
+}
+.item-2{
+    display: flex;
+    justify-content: flex-end;
+    gap: 2.5em;
+}
+li{
+    list-style: none;
+}
